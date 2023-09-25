@@ -1,0 +1,14 @@
+buat database "db_data_penduduk"
+buat tabel "penduduk"
+id_penduduk int(11) primary key auto_increment
+nik varchar(25)
+no_kk 
+nama
+tempat_lahir 
+tanggal_lahir date
+jenis_kelamin 
+status_perkawinan
+agama
+pendidikan
+pekerjaan
+alamat
